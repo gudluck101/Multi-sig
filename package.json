@@ -1,0 +1,12 @@
+{
+  "name": "pi-auto-transfer",
+  "version": "1.0.0",
+  "main": "multiBot.js",
+  "scripts": {
+    "start": "node multisig.js"
+  },
+  "dependencies": {
+    "stellar-sdk": "^10.4.0",
+    "express": "^4.18.4"
+  }
+}
