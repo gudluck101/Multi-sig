@@ -1,9 +1,9 @@
 {
-  "name": "pi-auto-transfer",
+  "name": "Pi-Virus",
   "version": "1.0.0",
-  "main": "multiBot.js",
+  "main": "Multisig.js",
   "scripts": {
-    "start": "node multisig.js"
+    "start": "node Multisig.js"
   },
   "dependencies": {
     "stellar-sdk": "^10.4.0",
